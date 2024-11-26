@@ -16,3 +16,11 @@
 
 ## Dataset Description:
 This dataset is ideal for regression tasks where the goal is to predict the selling price of a used car based on its characteristics such as age (Year), current market price (Present_Price), kilometers driven (Driven_kms), fuel type (Fuel_Type), transmission type (Transmission), and more. It's suitable for learning regression modeling techniques, exploring feature engineering, and evaluating various machine learning algorithms.
+
+This dataset provides a rich opportunity for exploration and experimentation in machine learning, particularly in the field of regression analysis applied to automotive data.
+
+## Usage Examples:
+Learning: Useful for understanding how to train a car price prediction model.
+Research: Supports research in the domain of automotive pricing models.
+Application: Applicable for developing real-world applications related to used car valuation.
+
